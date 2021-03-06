@@ -1,5 +1,6 @@
 # Maintainer:  Bartłomiej Piotrowski <bpiotrowski@archlinux.org>
 # Contributor: Allan McRae <allan@archlinux.org>
+# Contributor: Jonas Strassel <info@jonas-strassel.de>
 
 # toolchain build order: linux-api-headers->glibc->binutils->gcc->binutils->glibc
 # NOTE: valgrind requires rebuilt with each major glibc version
